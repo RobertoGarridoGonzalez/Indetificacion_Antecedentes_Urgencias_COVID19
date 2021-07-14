@@ -6,4 +6,4 @@ El objetivo es el diseño y puesta en marcha de una arquitectura de NLP (element
 
 Los resultados de extraer y codificar las comorbilidades previas de los pacientes con COVID-19 en los informes de urgencias reales se pueden ver aqui:
 
-##[Idenficacion de Antecedentes y codificación CEI10 en informes de Urgencias](Idenficacion_Antecedentes_CEI10_Urgencias.ipynb)
+[Idenficacion de Antecedentes y codificación CEI10 en informes de Urgencias](Idenficacion_Antecedentes_CEI10_Urgencias.ipynb)
