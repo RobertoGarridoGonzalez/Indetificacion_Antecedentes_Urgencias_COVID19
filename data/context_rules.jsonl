@@ -1,0 +1,16 @@
+{
+  "context_rules": [
+    {
+      "category": "NEGATED_EXISTENCE",
+      "literal": "no",
+      "pattern": null,
+      "direction": "FORWARD"
+    },
+    {
+      "category": "NEGATED_EXISTENCE",
+      "literal": ": ni",
+      "pattern": null,
+      "direction": "FORWARD"
+    }
+  ]
+}

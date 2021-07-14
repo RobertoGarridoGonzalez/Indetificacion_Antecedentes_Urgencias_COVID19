@@ -1,0 +1,91 @@
+codigo_cie.codigo in ('F17.210','Z87.891') = TABACO
+
+substr(codigo_cie.codigo, 1,3) in ('F10') = ALCOHOL
+
+codigo_cie.codigo in ('E78.5') = DISLIPEMIA
+
+substr(codigo_cie.codigo, 1,3) in ('K25', 'K26', 'K27', 'K28') = ULCUS
+
+substr(codigo_cie.codigo, 1,3) in ('N18') = ENFERMEDAD_RENAL_CRONICA          
+
+substr(codigo_cie.codigo, 1,3) in ('I10', 'I11', 'I12', 'I13') = HTA
+
+substr(codigo_cie.codigo, 1,3) in ('K71', 'K72', 'K73', 'K74', 'K75', 'K76') = ENF_HEPATICA
+
+substr(codigo_cie.codigo, 1, 3) in ('E08', 'E09', 'E10', 'E11', 'E13') = DB
+
+substr(codigo_cie.codigo, 1,3) in ('E08', 'E09', 'E10', 'E11', 'E13' ) and codigo_cie.codigo not in ('E08.9', 'E09.9', 'E10.9', 'E11.9', 'E13.9') = DM_AFECTACION
+	
+substr(codigo_cie.codigo, 1,3) in ('I48') = FIBRILACION_AURICULAR
+
+substr(codigo_cie.codigo, 1,3) in ('I25') and codigo_cie.codigo <> 'I25.2' = CARDIOP_ISQUEMICA
+	
+(substr(codigo_cie.codigo, 1,3) in ('I21', 'I22') or codigo_cie.codigo = 'I25.2') = INFARTO_MIOCARDIO
+
+substr(codigo_cie.codigo, 1,3) in ('I50') and substr(codigo_cie.codigo, 1, 5) not in ('I50.2', 'I50.3', 'I50.4') = INSUFICIENCIA_CARDIACA
+	
+substr(codigo_cie.codigo, 1,5) in ('I50.1', 'I50.2', 'I50.3') = IC_CONGESTIVA
+
+substr(codigo_cie.codigo, 1,3) in ('I82', 'I80', 'I73') = ENF_VASCULAR_PERIFERICA
+
+substr(codigo_cie.codigo, 1,3) in ('I34', 'I35', 'I36', 'I37', 'I05', 'I06', 'I07', 'I08') = VALVULOPATIA
+
+substr(codigo_cie.codigo, 1,3) in ('J44', 'J43', 'J47') = EPOC
+
+(substr(codigo_cie.codigo, 1,3) in ('I44', 'I42') OR substr(codigo_cie.codigo, 1, 5) = 'I25.5') = OTRA_CARDIOPATIA
+
+substr(codigo_cie.codigo, 1,3) in ('J45') = ASMA
+
+codigo_cie.codigo = 'Z99.81' = OXIGENO_PREVIO
+
+codigo_cie.codigo = 'E66.2' = SAHS_HIPOVENTIL_OBESID
+
+codigo_cie.codigo = 'G47.33' = SAOS
+
+codigo_cie.codigo = 'Z99.89' = CPAP_BIPAP
+
+substr(codigo_cie.codigo, 1, 3) = 'J84' = OTRA_NEUMOPATIA
+
+codigo_cie.codigo = 'Z93.0' = ESTADO_TRAQUEOSTOMIA
+
+codigo_cie.codigo in ('Z86.711', 'Z86.718', 'Z86.72') = ENF_TROMBOEMBOLICA
+
+substr(codigo_cie.codigo, 1, 3) = 'D68' = TROMBOFILIA
+
+substr(codigo_cie.codigo, 1, 3) = 'K74' = CIRROSIS
+
+(substr(codigo_cie.codigo, 1, 3) = 'I69' OR codigo_cie.codigo = 'Z86.73') = AIT_O_ENF_CELEBROV
+
+substr(codigo_cie.codigo, 1, 3) in ('I60', 'I61', 'I62', 'I63') = ICTUS
+
+substr(codigo_cie.codigo, 1, 3) = 'G40' = EPILEPSIA
+
+substr(codigo_cie.codigo, 1, 3) in ('F01', 'F02', 'F03') = DEMENCIA
+
+substr(codigo_cie.codigo, 1, 3) = 'G20' = PARKINSON_DEGENERATIVA
+
+substr(codigo_cie.codigo, 1, 3) = 'G81' = HEMIPLEJIA
+
+substr(codigo_cie.codigo, 1, 3) in ('G30', 'G31', 'G32', 'G43') = OTROS_ANTEC_NEUROLOGICOS
+
+substr(codigo_cie.codigo, 1, 2) in ('D5', 'D6') = ENFERMEDAD_HEMATOLOGICA
+
+substr(codigo_cie.codigo, 1, 3) in ('D70', 'D71', 'D72', 'D73', 'D74', 'D75', 'D76', 'D77') = OTRA_ENF_HEMATOLOGICA
+
+(substr(codigo_cie.codigo, 1, 2) in ('C0', 'C1', 'C2', 'C3', 'C4', 'C5', 'C6', 'C7', 'D0') OR substr(codigo_cie.codigo, 1,3) in ('C80', 'Z85')) = ENFERMEDAD_ONCOLOGICA
+		 
+substr(codigo_cie.codigo, 1, 3) in ('C81', 'C82', 'C83', 'C84', 'C85', 'C86', 'C87', 'C88', 'C89', 'C90', 'C91', 'C92', 'C93', 'C94', 'C95', 'C96') = CANCER_ACTIVO
+
+codigo_cie.codigo = 'M35.9' = ENF_AUTOINMUNE
+
+codigo_cie.codigo = 'Z21' = INFECCION_VIH
+
+codigo_cie.codigo = 'B20' = SIDA
+
+codigo_cie.codigo = 'D84.9' = OTROS_INMUNODEPRIMIDOS
+
+substr(codigo_cie.codigo, 1, 3) = 'M35' = ENF_TEJIDO_CONECTIVO
+
+substr(codigo_cie.codigo, 1, 1) = 'O' and substr(codigo_cie.codigo, 1, 2) <> 'O0' = GESTACION
+	
+substr(codigo_cie.codigo, 1, 3) = 'Z3A' = SEMANA_GESTACION

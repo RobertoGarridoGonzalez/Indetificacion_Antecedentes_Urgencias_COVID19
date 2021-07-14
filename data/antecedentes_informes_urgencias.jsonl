@@ -1,0 +1,84 @@
+[
+ "inf1",
+ []
+][
+ "inf2",
+ [
+  [
+   "F17.210",
+   "Fumadora"
+  ],
+  [
+   "C07",
+   "Carcinoma"
+  ],
+  [
+   "C07",
+   "Carcinoma"
+  ],
+  [
+   "C50.9",
+   "CARCINOMA DUCTAL INFILTRANTE"
+  ],
+  [
+   "I82.409",
+   "TVP"
+  ]
+ ]
+][
+ "inf3",
+ [
+  [
+   "J45.909",
+   "Asma extr\u00ednseca"
+  ],
+  [
+   "Z87.891",
+   "Exfumadora"
+  ]
+ ]
+][
+ "inf4",
+ [
+  [
+   "I10",
+   "HTA"
+  ],
+  [
+   "E11.9",
+   "DM tipo 2"
+  ],
+  [
+   "I25.9",
+   "Cardiopat\u00eda isqu\u00e9mica"
+  ]
+ ]
+][
+ "inf5",
+ [
+  [
+   "",
+   "prolapso vesical"
+  ]
+ ]
+][
+ "inf6",
+ [
+  [
+   "Z87.891",
+   "Ex-fumadora"
+  ],
+  [
+   "I10",
+   "Hipertensi\u00f3n arterial"
+  ],
+  [
+   "J44.9",
+   "EPOC"
+  ],
+  [
+   "Z99.81",
+   "Oxigeno domiciliario previo"
+  ]
+ ]
+]
