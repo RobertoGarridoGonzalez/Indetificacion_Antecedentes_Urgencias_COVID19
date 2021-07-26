@@ -728,6 +728,11 @@
      "ANTEC"
     ],
     [
+     42,
+     53,
+     "ANTEC"
+    ],
+    [
      447,
      456,
      "ANTEC"
@@ -783,6 +788,11 @@
     [
      70,
      78,
+     "ANTEC"
+    ],
+    [
+     102,
+     113,
      "ANTEC"
     ]
    ]
@@ -872,6 +882,11 @@
     [
      18,
      26,
+     "ANTEC"
+    ],
+    [
+     40,
+     51,
      "ANTEC"
     ]
    ]
@@ -1215,6 +1230,11 @@
      26,
      33,
      "ANTEC"
+    ],
+    [
+     40,
+     51,
+     "ANTEC"
     ]
    ]
   }
@@ -1296,6 +1316,11 @@
     [
      110,
      116,
+     "ANTEC"
+    ],
+    [
+     119,
+     134,
      "ANTEC"
     ]
    ]
@@ -1524,6 +1549,11 @@
      187,
      194,
      "ANTEC"
+    ],
+    [
+     201,
+     212,
+     "ANTEC"
     ]
    ]
   }
@@ -1647,6 +1677,11 @@
      199,
      206,
      "ANTEC"
+    ],
+    [
+     213,
+     224,
+     "ANTEC"
     ]
    ]
   }
@@ -1724,6 +1759,11 @@
      "ANTEC"
     ],
     [
+     70,
+     81,
+     "ANTEC"
+    ],
+    [
      620,
      640,
      "ANTEC"
@@ -1738,6 +1778,11 @@
     [
      73,
      89,
+     "ANTEC"
+    ],
+    [
+     108,
+     119,
      "ANTEC"
     ]
    ]
@@ -1875,7 +1920,7 @@
    "entities": [
     [
      252,
-     272,
+     282,
      "ANTEC"
     ]
    ]
@@ -2074,6 +2119,11 @@
     [
      461,
      468,
+     "ANTEC"
+    ],
+    [
+     475,
+     486,
      "ANTEC"
     ]
    ]
@@ -2379,7 +2429,7 @@
     ],
     [
      192,
-     219,
+     224,
      "ANTEC"
     ]
    ]
@@ -2458,6 +2508,11 @@
      27,
      34,
      "ANTEC"
+    ],
+    [
+     53,
+     64,
+     "ANTEC"
     ]
    ]
   }
@@ -2481,6 +2536,11 @@
     [
      33,
      40,
+     "ANTEC"
+    ],
+    [
+     47,
+     58,
      "ANTEC"
     ]
    ]
@@ -2712,6 +2772,11 @@
      "ANTEC"
     ],
     [
+     504,
+     512,
+     "ANTEC"
+    ],
+    [
      660,
      676,
      "ANTEC"
@@ -2726,6 +2791,11 @@
     [
      137,
      143,
+     "ANTEC"
+    ],
+    [
+     212,
+     220,
      "ANTEC"
     ]
    ]
@@ -3239,6 +3309,11 @@
      "ANTEC"
     ],
     [
+     144,
+     152,
+     "ANTEC"
+    ],
+    [
      157,
      176,
      "ANTEC"
@@ -3444,6 +3519,11 @@
   {
    "entities": [
     [
+     129,
+     139,
+     "ANTEC"
+    ],
+    [
      240,
      248,
      "ANTEC"
@@ -3475,6 +3555,11 @@
     [
      801,
      811,
+     "ANTEC"
+    ],
+    [
+     844,
+     859,
      "ANTEC"
     ],
     [
@@ -3679,6 +3764,11 @@
     [
      41,
      64,
+     "ANTEC"
+    ],
+    [
+     67,
+     78,
      "ANTEC"
     ],
     [
@@ -4038,6 +4128,11 @@
      "ANTEC"
     ],
     [
+     32,
+     43,
+     "ANTEC"
+    ],
+    [
      49,
      53,
      "ANTEC"
@@ -4079,6 +4174,11 @@
     [
      346,
      353,
+     "ANTEC"
+    ],
+    [
+     360,
+     371,
      "ANTEC"
     ],
     [
@@ -4373,6 +4473,11 @@
     [
      71,
      80,
+     "ANTEC"
+    ],
+    [
+     87,
+     98,
      "ANTEC"
     ],
     [
@@ -4890,6 +4995,11 @@
   "Ni\u00f1a de 3 a\u00f1os y 8 meses de edad. Diabetes gestacional y madre Rh - grado A, gestaci\u00f3n de 38 semanas y parto normal. Cariotipo femenino normal 46 XX.",
   {
    "entities": [
+    [
+     34,
+     42,
+     "ANTEC"
+    ],
     [
      77,
      100,
@@ -5808,6 +5918,11 @@
      "ANTEC"
     ],
     [
+     44,
+     55,
+     "ANTEC"
+    ],
+    [
      1489,
      1498,
      "ANTEC"
@@ -5880,6 +5995,11 @@
     [
      195,
      202,
+     "ANTEC"
+    ],
+    [
+     209,
+     220,
      "ANTEC"
     ],
     [
@@ -6610,6 +6730,11 @@
   {
    "entities": [
     [
+     295,
+     305,
+     "ANTEC"
+    ],
+    [
      424,
      426,
      "ANTEC"
@@ -7096,6 +7221,11 @@
   {
    "entities": [
     [
+     29,
+     40,
+     "ANTEC"
+    ],
+    [
      194,
      205,
      "ANTEC"
@@ -7431,6 +7561,18 @@
   }
  ],
  [
+  "Como antecedentes epidemiol\u00f3gicos de valor refer\u00eda adicci\u00f3n a coca\u00edna inhalatoria, marihuana y tabaquismo.",
+  {
+   "entities": [
+    [
+     95,
+     105,
+     "ANTEC"
+    ]
+   ]
+  }
+ ],
+ [
   "Al ingreso se encontraba l\u00facida, afebril, orientada en tiempo y espacio; en el examen f\u00edsico se destacaba la existencia de una formaci\u00f3n tumoral en regi\u00f3n maxilar inferior derecha que se extend\u00eda al \u00e1rea submentoniana, de aproximadamente 10 \u00d7 10 cm, de color rojo-viol\u00e1ceo, indurada, dolorosa a la presi\u00f3n, que imped\u00eda el cierre de la boca, la masticaci\u00f3n, la degluci\u00f3n y el habla. Compromet\u00eda la enc\u00eda, incluyendo piezas dentarias, los tejidos blandos peribucales y el maxilar inferior derecho. Se palpaban adenomegalias submandibulares homolaterales, induradas, indoloras, adheridas a piel y planos profundos. El resto del examen f\u00edsico no mostr\u00f3 alteraciones de relevancia cl\u00ednica. La Rx de t\u00f3rax fue normal. El laboratorio de ingreso mostr\u00f3: Hto: 35%, GB: 7.200/mm3 (N: 70%, E: 0,3%, B: 1,6%, M: 5,6%, L: 21%); VSG: 21 mm 1a hora; TGO: 41U/l, TGP: 31 U/l, FAL: 153 U/l, glucemia: 138 mg/dl, urea: 27 mg/dl, creatinina: 0,56 mg/dl, Na+: 136 mEq/l, K+: 4,1 mEq/l, concentraci\u00f3n de protrombina 98%, KPTT: 30,6\", test de embarazo: negativo, VRDL: no reactiva. Las serolog\u00edas para Chagas y virus de hepatitis B y C resultaron negativas y para toxoplasmosis: IgM: negativa e IgG: positiva 1/64. El recuento de linfocitos T CD4+ fue de 235 c\u00e9l/ml (16,3%), CD8: 872/mm3 (60,5%) y la carga viral para VIH arroj\u00f3 154.263 copias/ml (log10 4,74).",
   {
    "entities": [
@@ -7608,6 +7750,11 @@
     [
      60,
      81,
+     "ANTEC"
+    ],
+    [
+     116,
+     126,
      "ANTEC"
     ],
     [
@@ -7825,6 +7972,11 @@
      "ANTEC"
     ],
     [
+     59,
+     70,
+     "ANTEC"
+    ],
+    [
      97,
      106,
      "ANTEC"
@@ -7922,6 +8074,11 @@
     [
      171,
      174,
+     "ANTEC"
+    ],
+    [
+     198,
+     213,
      "ANTEC"
     ],
     [
@@ -8048,6 +8205,11 @@
     [
      151,
      158,
+     "ANTEC"
+    ],
+    [
+     165,
+     176,
      "ANTEC"
     ],
     [
@@ -8314,6 +8476,11 @@
     [
      688,
      700,
+     "ANTEC"
+    ],
+    [
+     705,
+     713,
      "ANTEC"
     ]
    ]
@@ -8668,6 +8835,11 @@
      179,
      187,
      "ANTEC"
+    ],
+    [
+     197,
+     208,
+     "ANTEC"
     ]
    ]
   }
@@ -8679,11 +8851,6 @@
     [
      32,
      54,
-     "ANTEC"
-    ],
-    [
-     587,
-     601,
      "ANTEC"
     ]
    ]
@@ -8805,6 +8972,16 @@
      "ANTEC"
     ],
     [
+     80,
+     91,
+     "ANTEC"
+    ],
+    [
+     1672,
+     1680,
+     "ANTEC"
+    ],
+    [
      3217,
      3241,
      "ANTEC"
@@ -8916,6 +9093,18 @@
     [
      119,
      134,
+     "ANTEC"
+    ]
+   ]
+  }
+ ],
+ [
+  "Con la sospecha de diabetes tipo MODY se solicit\u00f3 estudio gen\u00e9tico mediante PCR semicuantitativa fluorescente, detect\u00e1ndose delecci\u00f3n en heterozigosis de, al menos, los exones del 1 al 8 del gen HNF1 \u03b2 que se asocia al tipo 5.",
+  {
+   "entities": [
+    [
+     19,
+     27,
      "ANTEC"
     ]
    ]
@@ -9228,6 +9417,11 @@
     [
      18,
      25,
+     "ANTEC"
+    ],
+    [
+     32,
+     43,
      "ANTEC"
     ],
     [
@@ -9738,6 +9932,11 @@
      "ANTEC"
     ],
     [
+     43,
+     54,
+     "ANTEC"
+    ],
+    [
      89,
      103,
      "ANTEC"
@@ -9943,13 +10142,28 @@
      "ANTEC"
     ],
     [
+     381,
+     392,
+     "ANTEC"
+    ],
+    [
      507,
      514,
      "ANTEC"
     ],
     [
+     521,
+     532,
+     "ANTEC"
+    ],
+    [
      588,
      596,
+     "ANTEC"
+    ],
+    [
+     603,
+     614,
      "ANTEC"
     ]
    ]
